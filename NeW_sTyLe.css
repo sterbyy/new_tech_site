@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;500;600;700;800;900;1000&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+body{
+    font-family: 'Nunito', sans-serif;
+}
+.sitename{
+    font: 600;
+    color: white;
+
+}
+.img1{
+    background-color: green;
+}
+.container{
+    background-color: green;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.XD{
+    color:white;
+    display: flex;
+    flex: row;
+}
+
+.XD:hover{
+    position: relative;
+    bottom: 4px;
+    color: chartreuse;
+}
+.stuff{
+    color: chartreuse;
+    background-color: green;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
